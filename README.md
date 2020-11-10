@@ -17,7 +17,7 @@ pip install -r requirements.txt
 You will need the following:
 
 * Your Goodreads user ID - go to your profile and copy the link 
-* A [Gooreads API Key|https://www.goodreads.com/api/keys]
+* A [Gooreads API Key](https://www.goodreads.com/api/keys)
 
 First, authenticate with Goodreads by running the following:
 
